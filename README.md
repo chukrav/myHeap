@@ -1,2 +1,2 @@
 # myHeap
-Any staff files. Nothing interesting :)
+Any stuff files. Nothing interesting :)
